@@ -70,13 +70,6 @@ Example use:
 * online document editing
 * file storage
 
-
-### **Simple summary**
-
-| Type | What you manage   | Example               |
-| ---- | ----------------- | --------------------- |
-| IaaS | OS, apps          | Amazon EC2            |
-| PaaS | Only code         | AWS Elastic Beanstalk |
-| SaaS | Just use software | Gmail                 |
-
+### Summary
+![summary](https://github.com/shivam1741/AWS-cloud-practitioner-clf-c02-notes/blob/Images/Screenshot%202026-03-16%20014032.png)
 
